@@ -6,7 +6,7 @@ hi I'm surya
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..if (numberType === intlTelInputUtils.numberType.MOBILE) {
     // is a mobile number
-  +918106339011if (numberType === intlTelInputUtils.numberType.MOBILE) {
+  +919912489128if (numberType === intlTelInputUtils.numberType.MOBILE) {
     // is a mobile number 
   
 
